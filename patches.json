@@ -3,32 +3,33 @@
     "version": "1.21",
     "date": "2024-06-13",
     "changes": [
-      {
-        "category": "worldgen",
-        "description": "Added Trial Chambers with loot and traps"
-      },
-      {
-        "category": "mobs",
-        "description": "Added Breeze mob with wind-based combat mechanics"
-      },
-      {
-        "category": "items",
-        "description": "Copper tools introduced for early-game progression"
-      }
+      { "category": "worldgen", "description": "Trial Chambers added" },
+      { "category": "mobs", "description": "Breeze mob added" },
+      { "category": "items", "description": "Copper tools added" }
     ]
   },
   {
     "version": "1.20.4",
     "date": "2023-12-07",
     "changes": [
-      {
-        "category": "blocks",
-        "description": "Expanded bamboo wood set variants"
-      },
-      {
-        "category": "items",
-        "description": "Armor trims improved customization options"
-      }
+      { "category": "blocks", "description": "Bamboo wood expanded" },
+      { "category": "items", "description": "Armor trims improved" }
+    ]
+  },
+  {
+    "version": "1.20",
+    "date": "2023-06-07",
+    "changes": [
+      { "category": "worldgen", "description": "Cherry grove biome added" },
+      { "category": "mobs", "description": "Sniffer mob added" }
+    ]
+  },
+  {
+    "version": "1.19",
+    "date": "2022-06-07",
+    "changes": [
+      { "category": "worldgen", "description": "Ancient Cities added" },
+      { "category": "mobs", "description": "Warden added" }
     ]
   }
 ]
